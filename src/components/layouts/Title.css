@@ -1,0 +1,14 @@
+.title{
+    padding: 80px 40px;
+}
+.subtitle{
+    color: var(--designColor);
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.description{
+    color: var(--lightText);
+    font-size: 48px;
+    margin-top: 18px;
+}

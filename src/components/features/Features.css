@@ -1,0 +1,14 @@
+.features{
+    height: auto;
+    background: var(--bodyColor);
+    color: var(--lightText);
+    padding: 20px 80px;
+}
+
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding-bottom: 100px;
+    margin: auto;
+    grid-row-gap: 60px;
+}
